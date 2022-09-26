@@ -9,3 +9,4 @@
 ### Learning:
 <img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="30" title="Learning"/> <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width="30" title="Learning"/> 
 <img src="https://icons-for-free.com/iconfiles/png/512/code+logo+swift+icon-1320184804561081764.png" width="30" title="Learning"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXn4)](https://github.com/anuraghazra/github-readme-stats)
