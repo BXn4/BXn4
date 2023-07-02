@@ -6,8 +6,11 @@
 <img src="https://github.com/BXn4/BXn4/assets/78733248/13203ab5-59a3-44bb-9bf1-d2f57df1cf71" width="500"/>
 </center>
 <br>
-<h5>Meet soon the RAGEDGINE, the 2D game engine written in Java</h5>
-<br>
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,html,css,js,php)](https://skillicons.dev)
 
-### Languages:
-<img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width="30"/> <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="30"/> <img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="26"/> <img src="https://iconape.com/wp-content/png_logo_vector/c.png" width="30"><img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="30" title="Learning"/> <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width="30" title="Learning"/> 
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,linux,vim,bash,unity)](https://skillicons.dev)
+
+### I'm interested in
+[![My Skills](https://skillicons.dev/icons?i=v,c,cpp,kotlin,swift,ts,react,lua)](https://skillicons.dev)
