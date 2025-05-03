@@ -8,7 +8,7 @@ In my free time, I often work on projects that aim to help my daily tasks. Howev
 | [GGRebornApp](https://github.com/ggr-devs/ggreborn-app)| Simple, highly customizable client with built in flash player |
 | GGCaféServer | Café server built in golang, with Hurka. |
 | [Kofitab](https://github.com/bxn4/kofitab)| Highly customizable and easy to use homepage |
-| [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Java |
+| [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Go |
 | GGDiscoServer | ---- |
 | GGFashionServer | ---- |
 
