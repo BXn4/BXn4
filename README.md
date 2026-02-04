@@ -1,5 +1,5 @@
 ## **Hello!** :wave:
-Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the [GGR-Devs](https://github.com/GGR-Devs) team to revive discounted GoodGame Studios games.
+Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the [GGR-Devs](https://github.com/GGR-Devs) team to revive discounted games.
 In my free time, I often work on projects that aim to help my daily tasks. However, until they’re complete, it sometimes feels like I’m only adding to the complexity.
 
 ### My current projects:
