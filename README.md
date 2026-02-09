@@ -1,12 +1,11 @@
 ## **Hello!** :wave:
-Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the [GGR-Devs](https://github.com/GGR-Devs) team to revive discounted games.
+Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the [GGR-Devs](https://github.com/GGR-Devs) team to make an restaurant game.
 In my free time, I often work on projects that aim to help my daily tasks. However, until they’re complete, it sometimes feels like I’m only adding to the complexity.
 
 ### My current projects:
 | Name | Desc | 
 |  --------  |  -------  |
-| [GGRebornApp](https://github.com/ggr-devs/ggreborn-app)| Simple, highly customizable client with built in flash player |
-| GGRServer | A Go game server engine for hosting GGR games (discounted GGS games), built with Hurka. Its a port intended to replace the SmartFoxServer. The server features command register, error handler, command validators (anti cheat), room management, client handling, game manager.  |
+| Café Reborn Server |A  custom Go game server engine for Café Reborn, featuring command registration, error handling, anti-cheat validators, room management, client handling, and game management.  |
 | [Kofitab](https://github.com/bxn4/kofitab)| Highly customizable and easy to use homepage |
 | [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Go |
 
