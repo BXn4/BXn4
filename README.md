@@ -9,11 +9,13 @@ In my free time, I often work on projects that aim to help my daily tasks. Howev
 | [Kofitab](https://github.com/bxn4/kofitab)| Highly customizable and easy to use homepage |
 | [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Go |
 
+I'm using [Phaser](https://phaser.io/) to make modern HTML5 web games.
+
 ### Active languages
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts)](https://skillicons.dev)
 
 ### Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,html,css,js,php,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,py,html,css,js,php,electron)](https://skillicons.dev)
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,zed,neovim)](https://skillicons.dev)
