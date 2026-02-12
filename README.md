@@ -5,7 +5,7 @@ In my free time, I often work on projects that aim to help my daily tasks. Howev
 ### My current projects:
 | Name | Desc | 
 |  --------  |  -------  |
-| Café Reborn Server | A  custom Go game server engine for Café Reborn, featuring command registration, error handling, anti-cheat validators, room management, client handling, and game management.  |
+| ReBrew Café | A Café / Restaurant management game. |
 | [Kofitab](https://github.com/bxn4/kofitab)| Highly customizable and easy to use homepage |
 | [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Go |
 
