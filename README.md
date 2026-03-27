@@ -2,6 +2,9 @@
 Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the [ReBrewInteractive](https://github.com/ReBrewInteractive) team to make an restaurant game.
 In my free time, I often work on projects that aim to help my daily tasks. However, until they’re complete, it sometimes feels like I’m only adding to the complexity.
 
+## Due to MS training the Copilot on GitHub, I'm going to migrate all of my repos (including everything) into Gitea.
+The repos will be available [here](https://gitea.com/BXn4) soon (only public will be visible to everyone)
+
 ### My current projects:
 | Name | Desc | 
 |  --------  |  -------  |
