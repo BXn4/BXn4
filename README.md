@@ -3,7 +3,7 @@ Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the 
 In my free time, I often work on projects that aim to help my daily tasks. However, until they’re complete, it sometimes feels like I’m only adding to the complexity.
 
 ## Due to MS training the Copilot on GitHub, I'm going to migrate all of my repos (including everything) into RP1 git.
-The repos will be available [here](https://git.rp1.hu/) soon (only public will be visible to everyone)
+The repos will be available [here](https://git.rp1.hu/BXn4) soon (only public will be visible to everyone)
 
 ### My current projects:
 | Name | Desc | 
