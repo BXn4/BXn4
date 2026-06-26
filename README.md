@@ -10,7 +10,8 @@ Other repos will be available [here](https://gitea.com/BXn4)
 | Name | Desc | 
 |  --------  |  -------  |
 | ReBrew Café | A Café / Restaurant management game. |
-| [SeeGO Launcher](https://gitea.com/bxn4/seego-launcher)| Egy alternatív opensource launcher a SeeRPG szerverhez Wails frameworkkel.|
+| [CafeServerGO](https://github.com/BXn4/CafeServerGo)| A custom TCP socket server hosting library / game server. Made with [Hurka5](https://github.com/Hurka5) |
+| [SeeGO Launcher](https://gitea.com/bxn4/seego-launcher)| An alternative open-source launcher for the SeeRPG server that uses WebView instead of Electron. |
 | [Kofitab](https://github.com/bxn4/kofitab)| Highly customizable and easy to use homepage |
 | [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Go |
 
