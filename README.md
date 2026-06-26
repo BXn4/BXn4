@@ -2,16 +2,14 @@
 Nice to see you! I'm Bence, from Hungary 🇭🇺, and currently helping in the [ReBrewInteractive](https://github.com/ReBrewInteractive) team to make an restaurant game.
 In my free time, I often work on projects that aim to help my daily tasks. However, until they’re complete, it sometimes feels like I’m only adding to the complexity.
 
-## Due to MS training the Copilot on GitHub, I'm going to migrate my active public repos, and new repos / commits only available in RP1 git (only linux features), and others on Gitea.
-Linux will be available [here](https://git.rp1.hu/BXn4)
-Other repos will be available [here](https://gitea.com/BXn4)
+All of my Gitea repos was imported back to Github, due to on Gitea services sometimes not reachable.
 
 ### My current projects:
 | Name | Desc | 
 |  --------  |  -------  |
 | ReBrew Café | A Café / Restaurant management game. |
 | [CafeServerGO](https://github.com/BXn4/CafeServerGo)| A custom TCP socket server hosting library / game server. Made with [Hurka5](https://github.com/Hurka5) |
-| [SeeGO Launcher](https://gitea.com/bxn4/seego-launcher)| An alternative open-source launcher for the SeeRPG server that uses WebView instead of Electron. |
+| [SeeGO Launcher](https://github.com/bxn4/seego-launcher)| An alternative open-source launcher for the SeeRPG server that uses WebView instead of Electron. |
 | [Kofitab](https://github.com/bxn4/kofitab)| Highly customizable and easy to use homepage |
 | [QuickQuiz](https://github.com/bxn4/quickquiz) | Simple, modern Discord Quiz bot made in Go |
 
